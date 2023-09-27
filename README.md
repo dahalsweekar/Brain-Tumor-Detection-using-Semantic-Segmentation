@@ -1,7 +1,7 @@
 # Brain-Tumor-Detection-using-Semantic-Segmentation
 
 ## Introduction
-This repository is a semantic segementation implementation on scanned MRI images of the Brain.
+This repository is a semantic segmentation implementation on scanned MRI images of the Brain.
 This repository contains a small dataset on which the models are trained. The dataset is trained on various models of which the results are provided in the table down below.
 
 ## Features
@@ -47,6 +47,7 @@ for ```pspnet``` image size must be divisible by 48, the image size will be adju
  ```
  python services/train.py --network unet --backbone vgg16 --img_size 256 --batch_size 8 --epoch 100 --score --data_path /content/drive/MyDrive/data/BTD_Dataset 
  ```
+  > For 5-fold bulk training use the following command.
 ```
  python services/train_all.py 
  ```
@@ -86,6 +87,7 @@ Image             |  Label
 		|__*.jpg .png*
 ```
 ## Results
+The following results are the average of five-fold cross-validation.
 
 | Backbone | Augmentation | Model | MeanIoU |Precision |Recall |F1-Score |Accuracy |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
