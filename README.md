@@ -56,7 +56,17 @@ for ```pspnet``` image size must be divisible by 48, the image size will be adju
 ## Dataset
 
   > Root of the dataset, by default, is ./data/BTD_Dataset/
+```
+With augmentation: 
 
+Train size: (174, 256, 256, 3)
+Test size: (15, 256, 256, 3)
+
+Without Augmentation: 
+
+Train size: (58, 256, 256, 3)
+Test size: (15, 256, 256, 3)
+```
 ### Sample
 
 Image             |  Label
