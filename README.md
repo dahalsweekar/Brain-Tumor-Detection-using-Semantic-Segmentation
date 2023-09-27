@@ -90,6 +90,11 @@ Image             |  Label
 | Backbone | Augmentation | Model | MeanIoU |Precision |Recall |F1-Score |Accuracy |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |VGG16|False|Unet||||||
+|||SegNet||||||
+|||DeepLabV3+||||||
+||True|Unet||||||
+|||SegNet||||||
+|||DeepLabV3+||||||
 	
 
 Accuracy             |  Loss
