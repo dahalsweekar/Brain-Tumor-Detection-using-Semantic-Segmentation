@@ -87,6 +87,11 @@ Image             |  Label
 ```
 ## Results
 
+| Backbone | Augmentation | Model | MeanIoU |Precision |Recall |F1-Score |Accuracy |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|VGG16|False|Unet||||||
+	
+
 Accuracy             |  Loss
 :-------------------------:|:-------------------------:
 ![accuracy](https://github.com/dahalsweekar/Deep-Weed-Segmentation/assets/99968233/a0d6b1f3-4938-4c80-9fd3-4ff72efa7d6c)  |  ![loss](https://github.com/dahalsweekar/Deep-Weed-Segmentation/assets/99968233/6b00143b-a5a0-41be-8101-5bfe67a06988)
