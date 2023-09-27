@@ -95,7 +95,30 @@ Image             |  Label
 ||True|Unet||||||
 |||SegNet||||||
 |||DeepLabV3+||||||
-	
+|ResNet50|False|Unet||||||
+|||SegNet||||||
+|||DeepLabV3+||||||
+||True|Unet||||||
+|||SegNet||||||
+|||DeepLabV3+||||||
+|DenseNet121|False|Unet||||||
+|||SegNet||||||
+|||DeepLabV3+||||||
+||True|Unet||||||
+|||SegNet||||||
+|||DeepLabV3+||||||
+|MobileNetV2|False|Unet||||||
+|||SegNet||||||
+|||DeepLabV3+||||||
+||True|Unet||||||
+|||SegNet||||||
+|||DeepLabV3+||||||
+|EfficientNetB0|False|Unet||||||
+|||SegNet||||||
+|||DeepLabV3+||||||
+||True|Unet||||||
+|||SegNet||||||
+|||DeepLabV3+||||||
 
 Accuracy             |  Loss
 :-------------------------:|:-------------------------:
