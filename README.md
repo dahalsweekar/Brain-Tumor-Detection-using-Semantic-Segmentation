@@ -26,7 +26,6 @@ This repository contains a small dataset on which the models are trained. The da
 ### Implemented Models in this repository
 | Network  | BackBone |
 | ------------- | ------------- |
-| ```custom``` |```None``` |
 | ```unet``` | ```vgg16```, ```resnet50```, ```efficientnetb0```, ```densenet121```, ```mobilenetv2``` |
 | ```segnet``` | ```vgg16```, ```resnet50```, ```efficientnetb0```, ```densenet121```, ```mobilenetv2``` |
 | ```deeplabv3``` | ```vgg16```, ```resnet50```, ```efficientnetb0```, ```densenet121```, ```mobilenetv2``` |
