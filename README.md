@@ -61,8 +61,7 @@ for ```pspnet``` image size must be divisible by 48, the image size will be adju
 
 Image             |  Label
 :-------------------------:|:-------------------------:
-![1](https://github.com/dahalsweekar/Deep-Weed-Segmentation/assets/99968233/43804f88-3f7d-4d67-85f1-60522f247f39)
-  |  ![1_label](https://github.com/dahalsweekar/Deep-Weed-Segmentation/assets/99968233/0662dd42-fb80-4b70-b836-5aa2b1304998)
+![1](https://github.com/dahalsweekar/Deep-Weed-Segmentation/assets/99968233/43804f88-3f7d-4d67-85f1-60522f247f39)  |  ![1_label](https://github.com/dahalsweekar/Deep-Weed-Segmentation/assets/99968233/0662dd42-fb80-4b70-b836-5aa2b1304998)
 ```
 |
 |
@@ -80,8 +79,7 @@ Image             |  Label
 
 Accuracy             |  Loss
 :-------------------------:|:-------------------------:
-![accuracy](https://github.com/dahalsweekar/Deep-Weed-Segmentation/assets/99968233/a0d6b1f3-4938-4c80-9fd3-4ff72efa7d6c)  
-|  ![loss](https://github.com/dahalsweekar/Deep-Weed-Segmentation/assets/99968233/6b00143b-a5a0-41be-8101-5bfe67a06988)
+![accuracy](https://github.com/dahalsweekar/Deep-Weed-Segmentation/assets/99968233/a0d6b1f3-4938-4c80-9fd3-4ff72efa7d6c)  |  ![loss](https://github.com/dahalsweekar/Deep-Weed-Segmentation/assets/99968233/6b00143b-a5a0-41be-8101-5bfe67a06988)
 
 ### Prediction
 ![prediction](https://github.com/dahalsweekar/Deep-Weed-Segmentation/assets/99968233/d5833c9b-aed2-40fd-a8ff-07eb8b93ac58)
