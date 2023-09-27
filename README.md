@@ -23,12 +23,13 @@ This repository contains a small dataset on which the models are trained. The da
 | ```--test```  | Enable testing after training (Default: Not enabled)  |
 | ```--augment```  | Enable Augmentation (Default: Not enabled) |
 
+### Implemented Models in this repository
 | Network  | BackBone |
 | ------------- | ------------- |
 | ```custom``` |```None``` |
-| ```unet``` | ```vgg16```, ```resnet50```, ```inceptionv3```, ```efficientnetb0```, ```densenet121```, ```mobilenetv2``` |
-| ```segnet``` | ```vgg16```, ```resnet50```, ```inceptionv3```, ```efficientnetb0```, ```densenet121```, ```mobilenetv2``` |
-| ```deeplabv3``` | ```vgg16```, ```resnet50```, ```inceptionv3```, ```efficientnetb0```, ```densenet121```, ```mobilenetv2``` |
+| ```unet``` | ```vgg16```, ```resnet50```, ```efficientnetb0```, ```densenet121```, ```mobilenetv2``` |
+| ```segnet``` | ```vgg16```, ```resnet50```, ```efficientnetb0```, ```densenet121```, ```mobilenetv2``` |
+| ```deeplabv3``` | ```vgg16```, ```resnet50```, ```efficientnetb0```, ```densenet121```, ```mobilenetv2``` |
 
 for ```pspnet``` image size must be divisible by 48, the image size will be adjusted accordingly.
 
